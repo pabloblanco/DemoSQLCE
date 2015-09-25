@@ -1,0 +1,58 @@
+C:\Productos Unitech\PA966\Mexico\SAzteca\Azteca\Azteca\Azteca\bin\Release\Azteca.exe
+C:\Productos Unitech\PA966\Mexico\SAzteca\Azteca\Azteca\Azteca\bin\Release\Azteca.pdb
+C:\Productos Unitech\PA966\Mexico\SAzteca\Azteca\Azteca\Azteca\bin\Release\Azteca.xml
+C:\Productos Unitech\PA966\Mexico\SAzteca\Azteca\Azteca\Azteca\bin\Release\System.Data.SqlServerCe.dll
+C:\Productos Unitech\PA966\Mexico\SAzteca\Azteca\Azteca\Azteca\bin\Release\USICF.dll
+C:\Productos Unitech\PA966\Mexico\SAzteca\Azteca\Azteca\Azteca\bin\Release\System.Data.SqlServerCe.xml
+C:\Productos Unitech\PA966\Mexico\SAzteca\Azteca\Azteca\Azteca\obj\Release\ResolveAssemblyReference.cache
+C:\Productos Unitech\PA966\Mexico\SAzteca\Azteca\Azteca\Azteca\obj\Release\Azteca.ErrorSrn.resources
+C:\Productos Unitech\PA966\Mexico\SAzteca\Azteca\Azteca\Azteca\obj\Release\Azteca.Form4.resources
+C:\Productos Unitech\PA966\Mexico\SAzteca\Azteca\Azteca\Azteca\obj\Release\Azteca.Form1.resources
+C:\Productos Unitech\PA966\Mexico\SAzteca\Azteca\Azteca\Azteca\obj\Release\Azteca.Form2.resources
+C:\Productos Unitech\PA966\Mexico\SAzteca\Azteca\Azteca\Azteca\obj\Release\Azteca.Form3.resources
+C:\Productos Unitech\PA966\Mexico\SAzteca\Azteca\Azteca\Azteca\obj\Release\Azteca.Resources.resources
+C:\Productos Unitech\PA966\Mexico\SAzteca\Azteca\Azteca\Azteca\obj\Release\Azteca.PrintingScn.resources
+C:\Productos Unitech\PA966\Mexico\SAzteca\Azteca\Azteca\Azteca\obj\Release\Azteca.printOut.resources
+C:\Productos Unitech\PA966\Mexico\SAzteca\Azteca\Azteca\Azteca\obj\Release\Azteca.Pswd.resources
+C:\Productos Unitech\PA966\Mexico\SAzteca\Azteca\Azteca\Azteca\obj\Release\Azteca.vbproj.GenerateResource.Cache
+C:\Productos Unitech\PA966\Mexico\SAzteca\Azteca\Azteca\Azteca\obj\Release\Azteca.exe
+C:\Productos Unitech\PA966\Mexico\SAzteca\Azteca\Azteca\Azteca\obj\Release\Azteca.xml
+C:\Productos Unitech\PA966\Mexico\SAzteca\Azteca\Azteca\Azteca\obj\Release\Azteca.pdb
+D:\Productos ADC Movil\Programas Terminales\SAzteca\bin\Release\Azteca.exe
+D:\Productos ADC Movil\Programas Terminales\SAzteca\bin\Release\Azteca.pdb
+D:\Productos ADC Movil\Programas Terminales\SAzteca\bin\Release\Azteca.xml
+D:\Productos ADC Movil\Programas Terminales\SAzteca\obj\Release\ResolveAssemblyReference.cache
+D:\Productos ADC Movil\Programas Terminales\SAzteca\obj\Release\Azteca.Inventario.resources
+D:\Productos ADC Movil\Programas Terminales\SAzteca\obj\Release\Azteca.Main.resources
+D:\Productos ADC Movil\Programas Terminales\SAzteca\obj\Release\Azteca.Resources.resources
+D:\Productos ADC Movil\Programas Terminales\SAzteca\obj\Release\Azteca.vbproj.GenerateResource.Cache
+D:\Productos ADC Movil\Programas Terminales\SAzteca\obj\Release\Azteca.exe
+D:\Productos ADC Movil\Programas Terminales\SAzteca\obj\Release\Azteca.xml
+D:\Productos ADC Movil\Programas Terminales\SAzteca\obj\Release\Azteca.pdb
+D:\Productos ADC Movil\Programas Terminales\SAzteca\obj\Release\Azteca.Almacen.resources
+D:\Productos ADC Movil\Programas Terminales\SAzteca\bin\Debug\Azteca.exe
+D:\Productos ADC Movil\Programas Terminales\SAzteca\bin\Debug\Azteca.pdb
+D:\Productos ADC Movil\Programas Terminales\SAzteca\bin\Debug\Azteca.xml
+D:\Productos ADC Movil\Programas Terminales\SAzteca\obj\Debug\ResolveAssemblyReference.cache
+D:\Productos ADC Movil\Programas Terminales\SAzteca\obj\Debug\Azteca.Almacen.resources
+D:\Productos ADC Movil\Programas Terminales\SAzteca\obj\Debug\Azteca.Inventario.resources
+D:\Productos ADC Movil\Programas Terminales\SAzteca\obj\Debug\Azteca.Main.resources
+D:\Productos ADC Movil\Programas Terminales\SAzteca\obj\Debug\Azteca.Resources.resources
+D:\Productos ADC Movil\Programas Terminales\SAzteca\obj\Debug\Azteca.vbproj.GenerateResource.Cache
+D:\Productos ADC Movil\Programas Terminales\SAzteca\obj\Debug\Azteca.exe
+D:\Productos ADC Movil\Programas Terminales\SAzteca\obj\Debug\Azteca.xml
+D:\Productos ADC Movil\Programas Terminales\SAzteca\obj\Debug\Azteca.pdb
+D:\Productos ADC Movil\Programas Terminales\SAzteca\obj\Release\Azteca.Alta.resources
+D:\Productos ADC Movil\Programas Terminales\SAzteca\obj\Debug\Azteca.Alta.resources
+D:\Productos ADC Movil\Programas Terminales\SAzteca\obj\Debug\Azteca.Sale.resources
+D:\Productos ADC Movil\Programas Terminales\SAzteca\obj\Release\Azteca.Sale.resources
+D:\Productos ADC Movil\Programas Terminales\SAzteca\Continental\obj\Release\ResolveAssemblyReference.cache
+D:\Productos ADC Movil\Programas Terminales\SAzteca\Continental\obj\Release\Azteca.Alta.resources
+D:\Productos ADC Movil\Programas Terminales\SAzteca\Continental\obj\Release\Azteca.Almacen.resources
+D:\Productos ADC Movil\Programas Terminales\SAzteca\Continental\obj\Release\Azteca.Sale.resources
+D:\Productos ADC Movil\Programas Terminales\SAzteca\Continental\obj\Release\Azteca.Inventario.resources
+D:\Productos ADC Movil\Programas Terminales\SAzteca\Continental\obj\Release\Azteca.Main.resources
+D:\Productos ADC Movil\Programas Terminales\SAzteca\Continental\obj\Release\Azteca.vbproj.GenerateResource.Cache
+D:\Productos ADC Movil\Programas Terminales\SAzteca\Continental\obj\Release\Azteca.exe
+D:\Productos ADC Movil\Programas Terminales\SAzteca\Continental\obj\Release\Azteca.xml
+D:\Productos ADC Movil\Programas Terminales\SAzteca\Continental\obj\Release\Azteca.pdb
